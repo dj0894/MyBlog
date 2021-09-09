@@ -3,11 +3,13 @@ import React, { useState, useEffect } from 'react';
 import NotFound from "./NotFound.js";
 import articleContent from "./ArticleContentJson.js";
 import CommentsList from "../components/CommentsList";
+import AddCommentForm from '../components/AddCommentForm';
 import UpvotesSection from "../components/UpvotesSection";
 function Article({ match }) {
     const name = match.params.name;
     const article = articleContent.find(article => article.name === name);
     const [articleInfo, setArticleInfo] = useState({ upvotes: 0, comments: [] });
+    console.log(articleInfo);
     useEffect(() => {
         const fetchData = async () => {
             const result = await fetch(`/api/articles/${name}`);
@@ -31,6 +33,7 @@ function Article({ match }) {
                 <p key={key}>{paragraph}</p>
             ))}
             <CommentsList comments={articleInfo.comments} />
+            <AddCommentForm articleName={name} setArticleInfo={setArticleInfo} />
             <h3>Other Articles</h3>
             <ArticleList articles={otherArticles}></ArticleList>
 
