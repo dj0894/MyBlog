@@ -3,10 +3,10 @@
 My Blog is full stack web application to publish articles on different topics. 
 It provides below features:
 
-1.Uploading articles
-2.Upvoting the articles
-3.Commenting on articles
-4.Showing related articles
+* Uploading articles
+* Upvoting the articles
+* Commenting on articles
+* Showing related articles
 
 ## Tech Stack
 * HTML
@@ -27,7 +27,6 @@ It provides below features:
 * run ```npm start``` to run backend server
 3. Open terminal 
 * run ```mongod``` to run mongodb server
-
 
 
 
