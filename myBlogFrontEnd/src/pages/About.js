@@ -3,30 +3,30 @@ function About() {
     return (
         <>
             <>
-                <h1>About me</h1>
+                <h1>About Me</h1>
                 <p>
-                    Welcome to my blog! Proin congue
-                    ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo.
-                    Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis,
-                    non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut
-                    eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at
-                    sodales purus euismod.
+                    Welcome to My Blog. I am Deepika Jha, Graduate student at Northeastern University.
+                    I am passionate about learning new technologies and develop bug free softwares.
+                
+
+
     </p>
                 <p>
-                    Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus.
-                    Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan
-                    nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus
-                    sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor
-                    interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id
-                    consequat quam. Vivamus accumsan dui in facilisis aliquet.,
-    </p>
-                <p>
-                    Etiam nec lectus urna. Sed sodales ultrices dapibus.
-                    Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan
-                    nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus
-                    sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor
-                    interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id
-                    consequat quam. Vivamus accumsan dui in facilisis aliquet.,
+                    I built My Blog full stack web application as a part of my learning.
+                    Through "My Blog" you can upload, upvote and comment on articles. It also shows related articles to your selected blog.
+                    <br/>
+                    <br/> 
+                    I used below techstack to build this application.
+                        <ul>
+                            <li>HTML</li>
+                            <li>CSS</li>
+                            <li>React</li>
+                            <li>Node</li>
+                            <li>Javascript</li>
+                            <li>MongoDB</li>
+                            <li>Express</li>
+
+                        </ul>
     </p>
             </>
         </>
