@@ -31,7 +31,7 @@ It provides below features:
 ## Demo
 For Full Demo [Click Here](https://drive.google.com/file/d/1_Nhj6rPTxVP9g2iUyjRkZd7_Vp3qmlIO/view?usp=sharing)
 
-![Gif](./Demo/my_blog_recording.gif)
+![](./Demo/my_blog_recording.gif=250*250)
 
 
 
