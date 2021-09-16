@@ -13,7 +13,7 @@ function About() {
     </p>
                 <p>
                     I built My Blog full stack web application as a part of my learning.
-                    Through "My Blog" you can upload, upvote and comment on articles. It also shows related articles to your selected blog.
+                    Through "My Blog" you can upload, upvote and comment on articles. It also shows related articles to your selected   blog.
                     <br/>
                     <br/> 
                     I used below techstack to build this application.
