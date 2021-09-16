@@ -32,7 +32,7 @@ It provides below features:
 
 For Full Demo click [here](https://drive.google.com/file/d/1_Nhj6rPTxVP9g2iUyjRkZd7_Vp3qmlIO/view?usp=sharing)
 
-<img src="./Demo/my_blog_recording.gif" width="250px">
+<img src="./Demo/my_blog_recording.gif" width="500px" height="500">
 
 
 
